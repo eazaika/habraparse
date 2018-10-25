@@ -5,8 +5,6 @@
 # Don't forget to add your pipeline to the ITEM_PIPELINES setting
 # See: https://doc.scrapy.org/en/latest/topics/item-pipeline.html
 
-import habradata
-
 class HabrPipeline(object):
     def process_item(self, item, spider):
         item['title'] = item['title'].upper()

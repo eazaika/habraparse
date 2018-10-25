@@ -67,7 +67,7 @@ ROBOTSTXT_OBEY = True
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
     'habr.pipelines.HabrPipeline': 300,
-    'habr.pipelines.MongoDBPipeline': 100,
+    'habradata.pipelines.MongoDBPipeline': 100,
 }
 
 MONGODB_SERVER = "localhost"
