@@ -3,7 +3,7 @@ Data microservice for habraparser
 =======
 Install
 =======
-Previosly install https://github.com/eazaika/habradata
+Previously install https://github.com/eazaika/habradata
 
 Then
 
