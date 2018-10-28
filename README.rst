@@ -15,3 +15,5 @@ Use
 =======
 $ startparse
 
+To view parsed data in browser use https://github.com/eazaika/habraview
+
