@@ -1,0 +1,3 @@
+[console_scripts]
+startparse = habraparser.spiders.HabrSpider:startparse
+

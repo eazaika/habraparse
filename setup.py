@@ -17,7 +17,6 @@ setup(
         'cssselect==1.0.3',
         'ExtensionClass==4.4',
         'habradata==1.0',
-        'habraparse==1.0',
         'hyperlink==18.0.0',
         'idna==2.7',
         'incremental==17.5.0',
